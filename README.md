@@ -26,8 +26,10 @@ directly. If network restrictions prevent this, follow these steps:
 
 ## Author
 
-Written and unlicensed by [Mikołaj Bartnicki][98]; please read [UNLICENSE][99]
-file for details.
+Unless explicitly stated otherwise, I am not the author of the files presented
+here and do not claim any copyright over them. Any other content in this
+repository that may be a subject to licensing was prepared and unlicensed by
+[Mikołaj Bartnicki][98]; please read [UNLICENSE][99] file for details.
 
 [00]:https://github.com/mikomatyk/vimrc
 [98]:mailto:mikolaj@bartnicki.org
